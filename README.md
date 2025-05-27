@@ -6,13 +6,13 @@ To perform heuristic evaluation on two competing apps/websites, propose design i
 Many apps/websites suffer from poor user experience (UX) due to design flaws. This experiment aims to compare two competing platforms, identify usability issues through heuristic evaluation, suggest improvements, and assess the impact of changes using A/B testing.
 
 ## DESIGN STEPS
-Select Competing Apps/Websites:
+### Select Competing Apps/Websites:
 
 App A: Zomato
 
 App B: Swiggy
 
-Conduct Heuristic Evaluation
+### Conduct Heuristic Evaluation
 Evaluate both apps using Nielsen’s 10 Usability Heuristics:
 ![20250527_0927_App UX Heuristic Analysis_simple_compose_01jw7y42bee18axmm711mfa2zx](https://github.com/user-attachments/assets/1dd9e413-9418-4506-9083-5db37b4caa5c)
 
@@ -36,19 +36,19 @@ Help users recognize, diagnose, and recover from errors
 
 Help and documentation
 
-Identify Usability Issues:
+### Identify Usability Issues:
 
 Zomato: Overcrowded interface, poor error messaging
 
 Swiggy: Inconsistent button labels, missing confirmation on cancellation
 
-Propose Design Changes:
+### Propose Design Changes:
 
 Zomato: Simplify layout, add tooltips for error messages
 
 Swiggy: Unify button labels, add cancellation confirmation dialog
 
-Design A/B Testing:
+### Design A/B Testing:
 
 A Version: Original design
 
@@ -58,28 +58,28 @@ Users split into two groups (randomly assigned)
 
 Metrics: Task completion time, error rate, satisfaction score (via post-task survey)
 
-Conduct User Testing:
+### Conduct User Testing:
 
 10 users for each version
 
 Tasks: Search food item, place order, cancel order
 
 ## DESIGNS
-Zomato - Original (A):
+### Zomato - Original (A):
 
 Home screen with multiple banners, mixed fonts
 
 No tooltip or explanation when order fails
 ![1](https://github.com/user-attachments/assets/e77fcb9a-301a-4841-8fa6-d52409c7eaab)
 
-Zomato - Modified (B):
+### Zomato - Modified (B):
 
 Minimal layout with clear sections
 
 Error tooltip on order failure explaining issue
 ![2](https://github.com/user-attachments/assets/29ac1f6b-f1f8-4f57-99a1-2f6889100355)
 
-Swiggy - Original (A):
+### Swiggy - Original (A):
 
 "Go Back", "Return", and "Cancel" buttons used interchangeably
 
@@ -87,7 +87,7 @@ Order cancellation happens instantly
 ![3](https://github.com/user-attachments/assets/fabe47b3-c584-4f47-8970-88b60108b823)
 
 
-Swiggy - Modified (B):
+### Swiggy - Modified (B):
 
 All buttons renamed to "Cancel Order" or "Go Back" appropriately
 
@@ -102,6 +102,6 @@ Zomato	B	1.8 min	1	4.4
 Swiggy	A	2.1 min	4	3.5
 Swiggy	B	1.7 min	0	4.6
 
-Conclusion
+## Conclusion
 The heuristic evaluation helped identify several UX issues in Zomato and Swiggy. After implementing suggested design improvements, A/B testing showed clear gains in task efficiency, reduced errors, and increased user satisfaction. This validates the effectiveness of UX redesign guided by heuristic principles.
 
