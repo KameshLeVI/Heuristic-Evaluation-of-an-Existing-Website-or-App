@@ -53,26 +53,30 @@ Tasks: Search food item, place order, cancel order
 
 Home screen with multiple banners, mixed fonts
 No tooltip or explanation when order fails
-![1](https://github.com/user-attachments/assets/e77fcb9a-301a-4841-8fa6-d52409c7eaab)
+![image](https://github.com/user-attachments/assets/807bb394-cc8c-4a78-bd97-d59f62923cf4)
+
 
 ### Zomato - Modified (B):
 
 Minimal layout with clear sections
 Error tooltip on order failure explaining issue
-![2](https://github.com/user-attachments/assets/29ac1f6b-f1f8-4f57-99a1-2f6889100355)
+![image](https://github.com/user-attachments/assets/fe77a430-afdf-4f81-ba4d-eabd1bd32cbf)
+
 
 ### Swiggy - Original (A):
 
 "Go Back", "Return", and "Cancel" buttons used interchangeably
 Order cancellation happens instantly
-![3](https://github.com/user-attachments/assets/fabe47b3-c584-4f47-8970-88b60108b823)
+![image](https://github.com/user-attachments/assets/caf6c224-2c46-4cdb-a185-86d517d05a02)
+
 
 
 ### Swiggy - Modified (B):
 
 All buttons renamed to "Cancel Order" or "Go Back" appropriately
 Confirmation dialog before cancellation
-![4](https://github.com/user-attachments/assets/1f61ff78-6c0d-4d1c-8c08-e1df27ce0c9f)
+![image](https://github.com/user-attachments/assets/66c65d64-8548-4e24-bca1-b405e273c68e)
+
 
 
 ## RESULTS
